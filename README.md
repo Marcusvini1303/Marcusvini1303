@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Marcus Vinicius
 
 🎓 Técnico em **Análise e Desenvolvimento de Sistemas (SESI/SENAI)**
-💻 Estudante de **Ciência da Computação**
+💻 Estudante de **Ciência da Computação** 1 periodo na uninassau
 
 Sou interessado em tecnologia e desenvolvimento de software, com foco principalmente em **desenvolvimento back-end com Python**. Busco aprender na prática através da construção de sistemas e projetos pessoais.
 
